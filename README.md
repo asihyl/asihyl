@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Asih Yuli Astuti
+### Hi there 👋 I'm Asih Yuli
 
 <!--
 **asihyl/asihyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
